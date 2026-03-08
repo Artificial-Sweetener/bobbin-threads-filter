@@ -7,7 +7,9 @@ I wanted a way to give automatic feedback to that algorithm. That's why Bobbin i
 ## Installation
 
 1. Install a userscript manager such as **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, or **[FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)**.
-2. Add the script: open [`bobbin-threads-filter.user.js`](https://raw.githubusercontent.com/Artificial-Sweetener/bobbin-threads-filter/main/bobbin-threads-filter.user.js) and let your userscript manager import it.
+2. Add the script (your preference of method):
+   - From this repo: open [`bobbin-threads-filter.user.js`](https://raw.githubusercontent.com/Artificial-Sweetener/bobbin-threads-filter/main/bobbin-threads-filter.user.js) and let your userscript manager import it.
+   - Visit the [GreasyFork release page](https://greasyfork.org/en/scripts/568932-bobbin-threads-filter-1-0-0) and click **install this script**.
 3. Reload Threads (`https://www.threads.net/` or `https://www.threads.com/`).
 
 ## Features
